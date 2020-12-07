@@ -17,4 +17,8 @@ public class HelloworldService {
     public String sayHello() {
         return "hello, " + words;
     }
+
+    public String sayHello2(){
+        return "2b";
+    }
 }
